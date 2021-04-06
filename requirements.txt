@@ -7,7 +7,7 @@ Django==1.11.4
 django-contrib-comments==1.8.0
 django-filter==1.0.0
 django-phonenumber-field==2.0.0
-django-registration==2.3
+django-registration==3.1.2
 django-taggit==0.22.1
 django-widget-tweaks==1.4.1
 idna==2.6
